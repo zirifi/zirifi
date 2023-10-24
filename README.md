@@ -8,7 +8,4 @@
 <img src="https://img.shields.io/badge/Unreal engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-0E1128?style=for-the-badge&logo=linux&logoColor=white">
 
-
-
-
 </div> 
